@@ -16,6 +16,7 @@ Note that the concepts of a neural network is not explained in this Jupyter Note
 - Learning rate:  1e−5  to  1.5 
 - Regularization:  3e−5 
 - Batches:  10 
+- Learning rate: 1 _(Constant learning rate)_
 
 The learning rate of the neural network is manually tuned between epochs in order to prevent overfitting by observing the accuracy plot. As a result, the following shows the cost and gradient of the neural network.
 
