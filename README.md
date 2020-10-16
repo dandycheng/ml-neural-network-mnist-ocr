@@ -27,6 +27,7 @@ After 11 epochs, we are able to obtain a training accuracy of 92.84 %, and a tes
 ![Network accuracy plot](https://github.com/dandycheng/ml-neural-network-mnist-ocr/blob/main/imgs/Network%20accuracy%20plot.png?raw=true)
 
 In the Jupyter Notebook, we fed a test image with the number 7.
+
 ![Test image](https://github.com/dandycheng/ml-neural-network-mnist-ocr/blob/main/imgs/Test%20image.png?raw=true)
 
 With the Softmax as the activation function, we are able to predict the number 7, where ```P(7) ~ 0.92```.
