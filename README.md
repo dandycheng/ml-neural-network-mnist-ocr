@@ -33,9 +33,9 @@ In the Jupyter Notebook, we fed a test image with the number 7.
 With the Softmax as the activation function, we are able to predict the number 7, where ```P(7) ~ 0.92```.
 The following shows the output layer values when the test image was fed:
 
-```
-Predicted number: 7
-Actual number: 7
+
+`Predicted number: 7`
+```Actual number: 7
 Output layer
 [[0.00870439]
  [0.00528639]
