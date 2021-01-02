@@ -13,7 +13,7 @@ Note that the concepts of a neural network is not explained in this Jupyter Note
 - Output layer -> Softmax
 
 ### Hyperparameters
-- Learning rate: a\[1e−5\]  to  1.5 
+- Learning rate: 1e−5  to  1.5 
 - Regularization:  3e−5 
 - Batches:  10 
 - Learning rate: 1 _(Constant learning rate)_
